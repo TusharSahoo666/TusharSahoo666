@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TusharSahoo666
-- 👀 I’m interested in CYBER SECURITY and adventurous activities .  
+- 👀 I’m interested in Softare Development and CYBER SECURITY .  
 - 🌱 I’m currently pursuing B-Tech in CSE branch .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
